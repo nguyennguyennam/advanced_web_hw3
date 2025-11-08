@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/config": "^4.0.2",
+    "cache-manager": "^7.2.4",
+    "cache-manager-ioredis-yet": "^2.1.2",
+    "class-validator": "^0.14.2",
+    "ioredis": "^5.8.2"
+  }
+}
